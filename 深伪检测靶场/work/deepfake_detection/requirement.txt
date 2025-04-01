@@ -1,0 +1,5 @@
+opencv-python-headless
+tqdm
+scikit-learn
+pillow
+numpy
